@@ -8,4 +8,7 @@ update if there are discoveries this is new to me too
 domain Info
 https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
 
+Publishing stuff this may change if there is a more "clean" way
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+
 
